@@ -18,7 +18,8 @@ Assistance
 
 Maquette Figma
 
-Lien vers ma maquette Figma : https://www.figma.com/design/PpVX2sV7drkYEgNLEol2eB/Devoir-CEF?node-id=0-1&t=g332qNdmBLpzTbkb-1
+Lien vers ma maquette Figma : https://www.figma.com/design/7QQspJiOslPT1geNFah5eR/Devoir-CEF---Probeats---Version-corrig%C3%A9e?node-id=0-1&t=NYFiWGYUju7tHytt-1
+
 
 Formation
 
